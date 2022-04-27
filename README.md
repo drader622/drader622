@@ -5,3 +5,7 @@
  I work with HTML, CSS, and JavaScript to develop responsive, well designed, and well tested applications.
  
  When I’m not coding or tinkering with things, you can find me playing with my dogs, hanging with my family, or learning new rhythms on my drum set.
+ 
+ 
+ 
+ You can check out some of projects on my portfolio page <a href="https://www.daniellerader.net">Here</a>
