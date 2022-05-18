@@ -8,4 +8,4 @@
  
  
  
- You can check out some of projects on my portfolio page <a href="https://www.daniellerader.net">Here</a>
+ You can check out some of projects on my portfolio page <a href="https://www.daniellerader.net">here</a>
